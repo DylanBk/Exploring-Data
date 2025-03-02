@@ -1,0 +1,79 @@
+Name,Email,Signup Date,Age
+John Doe,john@example.com,2024-02-30,25
+Jane Smith,,2024-01-15,twenty
+Alice Brown,alice@example.com,2024-02-20,30
+John Doe,john@example.com,2024-02-30,25
+,Mike@example.com,2024-03-01,40
+Tom,tom(at)example.com,not_a_date,35
+David Green,david.green@example.com,2024-02-10,28
+Emily White,emily@example.com,2024-03-01,22
+Brian Black,brian@example.com,2024-01-22,27
+Samantha Lee,samantha@example.com,2024-01-15,22
+Alice Grey,alice@grey.com,2024-02-20,31
+James Brown,james.brown@example.com,2024-02-20,25
+Carolyn Scott,carolyn@example.com,2024-03-01,30
+,,2024-03-05,35
+Michael Clark,michael@example.com,2024-02-28,45
+Megan White,megan.white@example.com,2024-02-30,22
+Ethan Hall,ethan.hall@example.com,2024-01-15,23
+Sarah Walker,sarahwalker@example.com,2024-01-18,22
+Tommy Lee,tommy@example.com,2024-02-20,24
+Grace Hopper,grace.hopper@example.com,2024-02-21,29
+Henry Ford,henry.ford@example.com,2024-03-01,31
+,,2024-02-10,28
+Julia Roberts,julia.roberts@example.com,2024-03-02,30
+Mark Twain,mark.twain@example.com,2024-02-15,32
+Linda Carter,linda.carter@example.com,2024-01-18,29
+Olivia Moore,olivia.moore@example.com,2024-02-15,25
+Charles Dickens,charles.dickens@example.com,2024-02-16,40
+Sarah James,sarahjames@example.com,2024-02-15,34
+George Washington,george@example.com,2024-02-19,41
+John Keats,john.keats@example.com,2024-02-20,28
+Emma Watson,emma.watson@example.com,2024-01-21,26
+Timothy Allen,timothy@example.com,2024-02-18,20
+Alice Cooper,alice.cooper@example.com,2024-03-03,22
+Charlie Brown,charlie@example.com,2024-02-17,33
+Maria Anderson,maria.anderson@example.com,2024-02-10,30
+Ryan Reynolds,ryan.reynolds@example.com,2024-02-21,35
+Julia Child,julia.child@example.com,2024-02-10,40
+Fiona Hill,fiona.hill@example.com,2024-03-01,30
+George Clooney,george.clooney@example.com,2024-02-22,55
+,,2024-02-23,28
+Christopher Nolan,christopher.nolan@example.com,2024-02-19,45
+Robert Downey Jr.,robert.downeyjr@example.com,2024-02-25,42
+Sophia Johnson,sophia.johnson@example.com,2024-03-01,22
+,,2024-02-10,27
+Ben Affleck,ben.affleck@example.com,2024-01-14,35
+William Shakespeare,william.shakespeare@example.com,2024-02-12,50
+Elizabeth Taylor,elizabeth.taylor@example.com,2024-03-05,62
+Jonah Hill,jonah.hill@example.com,2024-02-22,38
+Emma Stone,emma.stone@example.com,2024-02-18,30
+Jessica Biel,jessica.biel@example.com,2024-01-30,27
+Steve Jobs,steve.jobs@example.com,2024-02-14,55
+Robert Pattinson,robert.pattinson@example.com,2024-02-20,30
+Matthew McConaughey,matthew.mcconaughey@example.com,2024-02-25,52
+Ryan Gosling,ryan.gosling@example.com,2024-03-02,29
+Dwayne Johnson,dwayne.johnson@example.com,2024-03-01,50
+Johnny Depp,johnny.depp@example.com,2024-01-17,59
+Will Smith,will.smith@example.com,2024-01-20,49
+Bruce Willis,bruce.willis@example.com,2024-02-28,65
+Kendall Jenner,kendall.jenner@example.com,2024-02-17,28
+Cameron Diaz,cameron.diaz@example.com,2024-02-18,46
+Margot Robbie,margot.robbie@example.com,2024-02-26,31
+Meryl Streep,meryl.streep@example.com,2024-03-02,75
+,,2024-02-15,20
+Jim Carrey,jim.carrey@example.com,2024-03-01,50
+Sandra Bullock,sandra.bullock@example.com,2024-02-21,40
+Leonardo DiCaprio,leonardo.dicaprio@example.com,2024-02-23,48
+Daniel Craig,daniel.craig@example.com,2024-01-19,55
+Jake Gyllenhaal,jake.gyllenhaal@example.com,2024-02-10,39
+Chris Hemsworth,chris.hemsworth@example.com,2024-02-18,42
+Zac Efron,zac.efron@example.com,2024-03-02,33
+Taylor Swift,taylor.swift@example.com,2024-02-28,34
+Keanu Reeves,keanu.reeves@example.com,2024-02-15,59
+Emma Roberts,emma.roberts@example.com,2024-02-20,34
+Natalie Portman,natalie.portman@example.com,2024-01-28,29
+Jack Nicholson,jack.nicholson@example.com,2024-02-10,80
+Kurt Russell,kurt.russell@example.com,2024-02-11,60
+Jodie Foster,jodie.foster@example.com,2024-03-01,62
+Brad Pitt,brad.pitt@example.com,2024-02-17,58
